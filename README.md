@@ -1,7 +1,7 @@
 ---
 description: >-
   This document is my personal notes from the Algebra Platzi course. I thank the
-  Platzi team and especially teacher Marcela Valenzuela Gómez for this great
+  Platzi team, and especially teacher Marcela Valenzuela Gómez for this great
   course.
 ---
 
